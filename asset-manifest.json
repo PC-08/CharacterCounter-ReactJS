@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CharacterCounter-ReactJS/static/css/main.47f82280.chunk.css",
+    "main.js": "/CharacterCounter-ReactJS/static/js/main.ee94dfba.chunk.js",
+    "main.js.map": "/CharacterCounter-ReactJS/static/js/main.ee94dfba.chunk.js.map",
+    "runtime-main.js": "/CharacterCounter-ReactJS/static/js/runtime-main.6353c423.js",
+    "runtime-main.js.map": "/CharacterCounter-ReactJS/static/js/runtime-main.6353c423.js.map",
+    "static/js/2.4df831bf.chunk.js": "/CharacterCounter-ReactJS/static/js/2.4df831bf.chunk.js",
+    "static/js/2.4df831bf.chunk.js.map": "/CharacterCounter-ReactJS/static/js/2.4df831bf.chunk.js.map",
+    "index.html": "/CharacterCounter-ReactJS/index.html",
+    "static/css/main.47f82280.chunk.css.map": "/CharacterCounter-ReactJS/static/css/main.47f82280.chunk.css.map",
+    "static/js/2.4df831bf.chunk.js.LICENSE.txt": "/CharacterCounter-ReactJS/static/js/2.4df831bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6353c423.js",
+    "static/js/2.4df831bf.chunk.js",
+    "static/css/main.47f82280.chunk.css",
+    "static/js/main.ee94dfba.chunk.js"
+  ]
+}
